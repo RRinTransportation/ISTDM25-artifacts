@@ -1,0 +1,22 @@
+[
+  {
+    "is_data_needed_for_reproduce": true,
+    "is_data_publically_available": false,
+    "is_code_publically_available": true,
+    "software": [
+      "Google Gemini",
+      "Elsevier API"
+    ],
+    "code_link": [
+      "https://github.com/RRinTransportation/ISTDM25-artifacts"
+    ],
+    "data_link": [],
+    "reason_code_unavailable": null,
+    "reason_data_unavailable": "still being processed",
+    "data_availability_section": true,
+    "data_source": "collected",
+    "data_source_reasoning": "The paper uses over 10,000 articles published in Transportation Research Series between 2019 and 2024, retrieved via the Elsevier API. The paper states 'We first retrieve full-text via the Elsevier API\u00b9 for the articles published in flagship transportation journals.'",
+    "file": "/Users/junyi/Downloads/istdm/ISTDM_RERITE.pdf",
+    "doi": "ISTDM_RERITE"
+  }
+]
